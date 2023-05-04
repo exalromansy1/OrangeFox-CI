@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="https://gitlab.com/OrangeFox/device/beryllium.git -b fox_11.0"
+export DT_LINK="https://github.com/exalromansy1/device_Infinix-X626B.git -b fox_11.0"
 
 export DEVICE="Infinix-X626"
 export OEM="infinix"
