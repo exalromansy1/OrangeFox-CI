@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="fox_11.0"
-export DT_LINK="gh repo clone AndroidHQ254/android_device_Infinix_X626"
+export DT_LINK="https://gitlab.com/OrangeFox/device/beryllium.git -b fox_11.0"
 
 export DEVICE="Infinix-X626"
 export OEM="infinix"
