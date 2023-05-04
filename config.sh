@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Device
-export FOX_BRANCH="fox_9.0"
+export FOX_BRANCH="fox_11.0"
 export DT_LINK="gh repo clone AndroidHQ254/android_device_Infinix_X626"
 
 export DEVICE="Infinix-X626"
